@@ -17,6 +17,7 @@ Develop an application for reading documents and images using Google Vision.
 - Set credentials
   - Google Cloud Platform -> Navigation Menu -> credentials -> Service accounts -> Keys -> Add Key -> Create New Key -> Type Key: json -> 
 Paste the **file** into the project directory.
+  - Rename the file to *google-cloud-credentials.json*.
 
 - Execute server
 ``npm run start``
